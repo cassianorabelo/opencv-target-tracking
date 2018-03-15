@@ -2,6 +2,8 @@
 
 ![Computer vision RC plane tracking](https://i.imgur.com/MnvUcdB.gif)
 
+https://www.youtube.com/watch?v=VXD6au13Ubs
+
 The following code was developed as an exercise to learn how to use the OpenCV Computer Vision Library in C++. The proposed objective was to detect and track, in realtime a given 2D pattern (target). There can never be a false positive.
 
 ![2D target to be tracked](https://i.imgur.com/TYxTJWx.png?1)
